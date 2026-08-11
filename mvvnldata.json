@@ -80,4 +80,21 @@
         "expirydate": "31-08-2026",
         "Allowoffline": false
     },
+        "device_id": "YOUR_DEVICE_ID_HERE",
+        "key": "YOUR_KEY_HERE",
+        "expirydate": "YYYY-MM-DD",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "YOUR_DEVICE_ID_HERE",
+        "key": "YOUR_KEY_HERE",
+        "expirydate": "YYYY-MM-DD",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "YOUR_DEVICE_ID_HERE",
+        "key": "YOUR_KEY_HERE",
+        "expirydate": "YYYY-MM-DD",
+        "Allowoffline": true
+    },
 ]
