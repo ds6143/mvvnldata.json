@@ -220,5 +220,11 @@
         "key": "12018",
         "expirydate": "31-08-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "12345",
+        "key": "12345",
+        "expirydate": "31-08-2026",
+        "Allowoffline": true
     }
 ]
