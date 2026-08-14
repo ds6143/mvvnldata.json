@@ -226,5 +226,17 @@
         "key": "12345",
         "expirydate": "31-08-2026",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "YOUR_DEVICE_ID_HERE",
+        "key": "YOUR_KEY_HERE",
+        "expirydate": "DD-MM-YYYY",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "641e437aca0c934d",
+        "key": "12011",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
+    },
 ]
