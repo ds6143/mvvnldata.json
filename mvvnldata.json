@@ -257,4 +257,17 @@
         "expirydate": "31-08-2026",
         "Allowoffline": false
         },
+    },
+    {
+        "device_id": "YOUR_DEVICE_ID_HERE",
+        "key": "YOUR_KEY_HERE",
+        "expirydate": "DD-MM-YYYY",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "aa187a4e4fe95d23",
+        "key": "16600442",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
+    },
 ]
