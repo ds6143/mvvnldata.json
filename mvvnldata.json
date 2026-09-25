@@ -38,12 +38,6 @@
         "expirydate": "DD-MM-YYYY",
         "Allowoffline": false
     },
-        {
-        "device_id": "253ad17274775647",
-        "key": "Ram@123",
-        "expirydate": "20-09-2026",
-        "Allowoffline": false
-        },
     {
         "device_id": "cf7a6621afbf07d0",
         "key": "17601205",
