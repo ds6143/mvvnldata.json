@@ -294,8 +294,8 @@
     },
     {
         "device_id": "30eed5e2bddcaa80",
-        "key": "12345",
+        "key": "Ram@321",
         "expirydate": "31-12-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 ]
